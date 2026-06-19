@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "Monoambiente en venta — Edificio Áureo 1552 (línea Bettatis), General Pinto 1552, San Fernando.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enmanueljnual-afk/landing-25demayo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enmanueljnual-afk/landing-25demayo/issues"
+  },
+  "homepage": "https://github.com/enmanueljnual-afk/landing-25demayo#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
