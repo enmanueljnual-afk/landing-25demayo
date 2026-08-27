@@ -23,7 +23,7 @@ Monoambiente en venta — Edificio Áureo 1552 (línea Bettatis), General Pinto 
 
 ## Datos configurados
 
-- **Precio:** USD 95.000
+- **Precio:** USD 80.000
 - **Superficie:** 45 m²
 - **Expensas:** $ 100.000 mensuales
 - **Año de construcción:** 2023
